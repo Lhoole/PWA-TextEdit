@@ -9,7 +9,7 @@
     "server": "cd server nodemon server.js --ignore client",
     "build": "cd client && NPM run build",
     "install": "cd server && npm i && cd ../client && npm i",
-    "client": "cd Client && npm start"
+    "client": "cd client && npm start"
   },
   "keywords": [],
   "author": "",
